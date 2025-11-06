@@ -1,0 +1,105 @@
+
+georgiosnikolaros97-prog.github.io
+
+byte0:
+You made it this far! Challenge complete! Congratulations!
+
+Your secret code is: you_just_mastered_changing_directories
+
+byte2:
+He that sweetest rose will find
+    That draw his knives i' th' war. Well, I will find him;
+    If circumstances lead me, I will find
+    But I will find him when he lies asleep,
+    The Cardinal instantly will find employment,
+    In time will find their fit rewards. That seal
+    Cranmer will find a friend will not shrink from him.
+    If you do love me, you will find me out.
+    I will find you twenty lascivious turtles ere one chaste
+  FORD.  [Aside]  I will be patient; I will find out this.
+  THESEUS. She will find him by starlight. Here she comes; and her
+    when she is sated with his body, she will find the error of her
+    required conveniences, her delicate tenderness will find itself
+    Post you to London, and you will find it so;
+No one will find this: grep_and_you_will_find
+  Fellow. I have a head, sir, that will find out logs
+    Can couch for fear but I will find them out;
+    will breed no terror in the youth: he will find it comes from a
+    The crown will find an heir. Great Alexander
+
+
+byte3:
+11542c11542
+<     And all the men and women merely programmers;
+---
+>     And all the men and women merely players;
+
+byte4:
+maze/left/right/8/cup.txt
+
+byte5:
+Usage: ./test <SDI>
+
+byte6:
+unzipping_is_a_piece_of_cake
+
+
+byte7:
+tar_jokes_cant_stick
+
+byte8:
+00000000: ffef bb20 6361 6e74 5f6b 6565 705f 7365  ... cant_keep_se
+00000010: 6372 6574 735f 6672 6f6d 5f79 6f75 2020  crets_from_you
+00000020: 2020 2020 2020 2020 2020 2020 2020 2020
+00000030: 2020 2020 2020 2020 2020 2020 2020 2020
+00000040: 2020 2020 2020 0d54 6865 7265 2069 7320        .There is
+00000050: 6162 736f 6c75 7465 6c79 206e 6f74 6869  absolutely nothi
+00000060: 6e67 2074 6f20 7365 6520 6865 7265 2e20  ng to see here.
+00000070: 4d6f 7665 2061 6c6f 6e67 2e20 2020 2020  Move along.
+00000080: 2020 2020 2020 2020 2020 2020 2020 2020
+00000090: 2020 2020 2020 2020 2020 2020 2020 2020
+000000a0: 2020 2020 2020 200a
+
+
+
+byte11:
+2 Rafaela
+
+byte12:
+~/.cache/which_command_is_the_best
+
+byte13:
+# Starting my first repo.
+
+The purpose of this repo is to post some educational material
+about git basics.
+
+
+byte14:
+commit 18d0b4676f26e528ef3705906a3b32dac3f65a20 (HEAD -> main)
+Author: Thanos Barbounis <barbouni@gmail.com>
+Date:   Sun Oct 12 04:53:01 2025 -0400
+
+    One more revision.
+
+diff --git a/README.md b/README.md
+index 3fa086a..cfed571 100644
+--- a/README.md
++++ b/README.md
+@@ -1,91 +1,95 @@
+-# 🧠 **Thanos Barbounis — The Architect of Code**
++# 🧠 Thanos Barbounis — The Engineer Between Worlds
+
+-> *“In the beginning, there was confusion. Then Thanos wrote a script.”*
++> *“The boundary between human thought and computation is only an interface problem.”*
+
+ ---
+
+-## 👨‍💻 The Legend in Compile-Time
++## 👨‍💻 Profile
+
+-Thanos Barbounis isn’t just a computer science graduate — he’s a **compiler whisperer**, a **bit-level poet**, and a **systems philosopher** who sees **algorithms not as utilities but as universe
+
+
+
+
